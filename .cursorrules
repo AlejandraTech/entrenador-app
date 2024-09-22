@@ -1,0 +1,7 @@
+- Siempre utiliza las mejores prácticas de Laravel al brindar asistencia sobre este framework.
+- Al manejar consultas SQL, emplea el ORM Eloquent y sigue sus convenciones de nomenclatura y optimización.
+- Para estilos y diseño, implementa clases y utilidades de TailwindCSS según sus directrices.
+- Proporciona ejemplos de código completos y sin abreviaturas que sean coherentes con Laravel, SQL y TailwindCSS.
+- Asegúrate de que todas las soluciones sean compatibles y se integren armoniosamente en un proyecto basado en Laravel, SQL y TailwindCSS.
+- No omitas detalles importantes y utiliza un lenguaje claro y conciso en tus respuestas.
+- Incluye ejemplos concretos para ilustrar las soluciones propuestas.
